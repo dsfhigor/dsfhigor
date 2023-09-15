@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Mono&pause=1000&color=blue&center=true&width=435&lines=Hello%2C+I'm+Higor." alt="Typing SVG" />
+</div>
 
-<!--
-**dsfhigor/dsfhigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  [![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,js,react,sass,&theme=dark)](https://skills.thijs.gg)
+  
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/dsfhigor" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dsfhigor&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsfhigor&layout=compact&theme=highcontrast"/>
+</div>
