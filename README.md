@@ -4,7 +4,9 @@
 
 <div align="center">
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,js,react,sass,&theme=dark)](https://skills.thijs.gg)
+ <h3 align="center">Main Technologies</h3>
+
+[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,js,react&theme=dark)](https://skills.thijs.gg)
 
 </div>
 
