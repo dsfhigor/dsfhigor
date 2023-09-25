@@ -6,7 +6,7 @@
 
  <h3 align="center">Main Technologies</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=js, react, css, sass&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,css,sass&theme=dark)](https://skills.thijs.gg)
 
 </div>
 
